@@ -1,0 +1,13 @@
+sys_id,sys_class_name,name,serial_number,ip_address,owned_by,support_group,environment,install_status,last_discovered
+ci001,cmdb_ci_server,app-web-01,SYN-1001,10.20.0.11,Alex Demo,Platform Ops,Production,Installed,2026-09-28
+ci002,cmdb_ci_server,app-web-02,SYN-1002,10.20.0.12,Alex Demo,Platform Ops,Production,Installed,2026-09-28
+ci003,cmdb_ci_server,APP-WEB-02,syn-1002,10.20.0.12,Alex Demo,Platform Ops,Production,Installed,2026-09-27
+ci004,cmdb_ci_server,db-host-01,SYN-1003,10.20.1.21,,Database Ops,Production,Installed,2026-09-28
+ci005,cmdb_ci_server,legacy-batch-01,SYN-1004,10.20.2.31,Sam Sample,Platform Ops,Production,Installed,2026-05-02
+ci006,cmdb_ci_server,old-file-01,SYN-1005,10.20.2.32,Sam Sample,Platform Ops,Production,Retired,2025-11-15
+ci007,cmdb_ci_app_server,orders-api,,,Alex Demo,Commerce Apps,Production,Installed,2026-09-28
+ci008,cmdb_ci_app_server,pricing-api,,,Alex Demo,Commerce Apps,Production,Installed,2026-09-28
+ci009,cmdb_ci_database,orders-db,,,Sam Sample,Database Ops,Production,Installed,2026-09-28
+ci010,cmdb_ci_database,reporting-db,,,Sam Sample,,Test,Installed,
+ci011,cmdb_ci_app_server,Orders-API,,,Alex Demo,Commerce Apps,Test,Installed,2026-09-20
+,cmdb_ci_server,broken-row,,,,,,,
